@@ -69,15 +69,8 @@ quantum-climate-prediction/
 │
 └── Documentation
     ├── TESTING_DOCUMENTATION.md     # Test cases & validation
-    ├── HYBRID_MODEL_SUMMARY.md      # Hybrid model details
-    ├── RESEARCH_PAPER.md            # Literature review
     ├── PROJECT_SUMMARY.md           # Project overview
-    ├── REQUIREMENT_SPECIFICATION.md
-    ├── DETAILED_DESIGN.md
-    ├── FINAL_RESULTS.md
-    ├── IMPROVEMENT_ANALYSIS.md
-    ├── QUANTUM_APPROACHES_SUMMARY.md
-    └── REFERENCES.md
+    └── FINAL_RESULTS.md             # Complete results analysis
 ```
 
 ## 🛠️ Installation
@@ -236,15 +229,8 @@ See [`TESTING_DOCUMENTATION.md`](TESTING_DOCUMENTATION.md) for full details.
 
 ### Technical Documentation
 - [`TESTING_DOCUMENTATION.md`](TESTING_DOCUMENTATION.md) - Complete testing methodology
-- [`HYBRID_MODEL_SUMMARY.md`](HYBRID_MODEL_SUMMARY.md) - Hybrid model architecture
-- [`DETAILED_DESIGN.md`](DETAILED_DESIGN.md) - System design
-- [`QUANTUM_APPROACHES_SUMMARY.md`](QUANTUM_APPROACHES_SUMMARY.md) - Quantum methods
-
-### Research & Analysis
-- [`RESEARCH_PAPER.md`](RESEARCH_PAPER.md) - Literature review
-- [`IMPROVEMENT_ANALYSIS.md`](IMPROVEMENT_ANALYSIS.md) - Performance analysis
-- [`FINAL_RESULTS.md`](FINAL_RESULTS.md) - Complete results
-- [`REFERENCES.md`](REFERENCES.md) - Bibliography
+- [`PROJECT_SUMMARY.md`](PROJECT_SUMMARY.md) - Project overview and context
+- [`FINAL_RESULTS.md`](FINAL_RESULTS.md) - Complete results and analysis
 
 ## 🖼️ Visualizations
 
