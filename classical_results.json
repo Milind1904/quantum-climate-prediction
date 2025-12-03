@@ -1,0 +1,20 @@
+{
+    "model_type": "LSTM",
+    "accuracy": 0.9971387032912645,
+    "precision": 0.9842584921292461,
+    "recall": 0.9937858508604207,
+    "f1_score": 0.9889992269727061,
+    "training_time_seconds": 196.73861527442932,
+    "parameters": 27713,
+    "epochs_trained": 10,
+    "confusion_matrix": [
+        [
+            56155,
+            133
+        ],
+        [
+            52,
+            8316
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "model_type": "Hybrid_Quantum_Classical",
+  "threshold": 0.2,
+  "accuracy": 0.824,
+  "precision": 0.8699360341151386,
+  "recall": 0.9379310344827586,
+  "f1_score": 0.9026548672566371,
+  "metrics_note": "Precision, Recall, and F1 are for Normal Weather (Class 0) only",
+  "quantum_usage": 0.658,
+  "classical_usage": 0.34199999999999997,
+  "hybrid_time": 9.5367431640625e-07,
+  "test_samples": 500,
+  "confusion_matrix": [
+    [
+      395,
+      40
+    ],
+    [
+      57,
+      8
+    ]
+  ]
+}

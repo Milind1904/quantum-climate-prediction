@@ -1,0 +1,28 @@
+{
+    "model_type": "QSVC_Optimized",
+    "accuracy": 0.786,
+    "precision": 0.8744292237442922,
+    "recall": 0.8804597701149425,
+    "f1_score": 0.8774341351660938,
+    "kernel_computation_time": 10083.859522104263,
+    "training_time": 0.17547011375427246,
+    "total_time": 10084.034992218018,
+    "qubits": 5,
+    "feature_map_reps": 2,
+    "explained_variance": 0.6821462392232683,
+    "training_samples": 1000,
+    "test_samples": 500,
+    "C_parameter": 10.0,
+    "sampling_strategy": "natural_distribution_87_13",
+    "confusion_matrix": [
+        [
+            383,
+            52
+        ],
+        [
+            55,
+            10
+        ]
+    ],
+    "metrics_note": "Precision, Recall, and F1 are for Normal Weather (Class 0) only"
+}
